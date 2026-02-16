@@ -32,6 +32,12 @@ I’m a versatile full‑stack developer passionate about building practical too
 
 ## 🚀 Featured Projects
 
+### 🔗 Evolution Editor
+[![Evolution Editor](https://img.shields.io/badge/View-Repository-4CAF50?style=for-the-badge)](https://github.com/james-evolution/Faithshield)  
+Evolution Editor is a standalone, rich text editor React component designed for easy integration into any React project. It supports both read-only and editable modes, JSON import/export, and theming via CSS variables.
+This is a [published npm package](https://www.npmjs.com/package/@evolution-james/evolution-editor).  
+**Tech:** React.js, JavaScript
+
 ### 🔗 Faithshield
 [![Faithshield](https://img.shields.io/badge/View-Repository-4CAF50?style=for-the-badge)](https://github.com/james-evolution/Faithshield)  
 A Chrome Manifest V3 extension that redirects blocked sites to a calming emergency page with custom rules and messaging.  
