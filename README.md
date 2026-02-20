@@ -19,18 +19,6 @@ I’m a full‑stack software developer passionate about building practical tool
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) ![Chrome Extensions](https://img.shields.io/badge/Chrome%20Extension-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white) ![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST-000000?style=for-the-badge&logo=rest&logoColor=white)
 
 
----
-
-### 📱 Application Types
-
-- Full-Stack Web Applications
-- REST APIs  
-- Desktop Applications  
-- Browser Extensions  
-- Discord Bots
-
----
-
 ## 🚀 Featured Projects
 
 ### Evolution Editor
