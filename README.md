@@ -4,7 +4,7 @@ I’m a full‑stack software developer passionate about building practical tool
 
 ---
 
-### 🛠️ Proficiencies
+### Proficiencies 🛠️
 
 **Frontend:**  
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -19,7 +19,7 @@ I’m a full‑stack software developer passionate about building practical tool
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) ![Chrome Extensions](https://img.shields.io/badge/Chrome%20Extension-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white) ![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST-000000?style=for-the-badge&logo=rest&logoColor=white)
 
 
-## 🚀 Featured Projects
+## Featured Projects 🏰
 
 ### Evolution Theme Engine
 [![Evolution Theme Engine](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/james-evolution/evolution-theme-engine) [![Live Demo](https://img.shields.io/badge/live%20demo-1b9640)](https://evolution-theme-engine-demo.vercel.app/)   
@@ -42,7 +42,7 @@ A Chrome Manifest V3 extension that redirects blocked sites to a calming emergen
 
 ### DevLexicon
 [![DevLexicon](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/james-evolution/DevLexicon)  
-A .NET MVC technical lexicon app demonstrating clean server‑side architecture, CRUD, and EF Core with a local SQL database. Features full CRUD + searching / category filtering. This allows developers to maintain their own local database of technical terms and code snippets to help refresh them on syntax that they may have forgotten from lack of consistent usage.  
+A .NET MVC technical lexicon app demonstrating clean server‑side architecture, EF Core with a local SQL database. Feature full CRUD operations + searching and category-filtering. This allows developers to maintain their own local database of technical terms and code snippets to help refresh them on syntax that they may have forgotten from lack of consistent usage.  
 **Tech:** C#, ASP.NET Core MVC, SQL Server, Entity Framework
 
 ### DragonManager
