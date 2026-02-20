@@ -23,13 +23,13 @@ I’m a full‑stack software developer passionate about building practical tool
 
 ### Evolution Theme Engine
 [![Evolution Theme Engine](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/james-evolution/evolution-theme-engine) [![Live Demo](https://img.shields.io/badge/live%20demo-1b9640)](https://evolution-theme-engine-demo.vercel.app/)   
-Evolution Editor is a standalone, rich text editor React component designed for easy integration into any React project. It supports both read-only and editable modes, JSON import/export, and theming via CSS variables.
+A plug-and-play React theme engine built on CSS custom properties. It ships with five polished built-in themes, a standalone theme-selector dropdown, and an optional barebones navbar — all wired together through React Context with automatic `localStorage` persistence.  
 This is a [published npm package](https://www.npmjs.com/package/@evolution-james/evolution-theme-engine).  
-**Tech:** React.js, JavaScript
+**Tech:** React.js, JavaScript, CSS
 
 ### Evolution Editor
 [![Evolution Editor](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/james-evolution/EvolutionEditor) [![Live Demo](https://img.shields.io/badge/live%20demo-1b9640)](https://evolution-editor-demo.vercel.app/)   
-Evolution Editor is a standalone, rich text editor React component designed for easy integration into any React project. It supports both read-only and editable modes, JSON import/export, and theming via CSS variables.
+Evolution Editor is a standalone, rich text editor React component designed for easy integration into any React project. It supports both read-only and editable modes, JSON import/export, and theming via CSS variables.  
 This is a [published npm package](https://www.npmjs.com/package/@evolution-james/evolution-editor).  
 **Tech:** React.js, JavaScript
 
