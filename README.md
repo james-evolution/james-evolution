@@ -22,19 +22,19 @@ I’m a full‑stack software developer passionate about building practical tool
 ## 🚀 Featured Projects
 
 ### Evolution Theme Engine
-[![Evolution Theme Engine](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/james-evolution/evolution-theme-engine) [![Live Preview](https://img.shields.io/badge/live%20demo-1b9640)](https://evolution-theme-engine-demo.vercel.app/)   
+[![Evolution Theme Engine](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/james-evolution/evolution-theme-engine) [![Live Demo](https://img.shields.io/badge/live%20demo-1b9640)](https://evolution-theme-engine-demo.vercel.app/)   
 Evolution Editor is a standalone, rich text editor React component designed for easy integration into any React project. It supports both read-only and editable modes, JSON import/export, and theming via CSS variables.
 This is a [published npm package](https://www.npmjs.com/package/@evolution-james/evolution-theme-engine).  
 **Tech:** React.js, JavaScript
 
 ### Evolution Editor
-[![Evolution Editor](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/james-evolution/EvolutionEditor) [![Live Preview](https://img.shields.io/badge/live%20demo-1b9640)](https://evolution-editor-demo.vercel.app/)   
+[![Evolution Editor](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/james-evolution/EvolutionEditor) [![Live Demo](https://img.shields.io/badge/live%20demo-1b9640)](https://evolution-editor-demo.vercel.app/)   
 Evolution Editor is a standalone, rich text editor React component designed for easy integration into any React project. It supports both read-only and editable modes, JSON import/export, and theming via CSS variables.
 This is a [published npm package](https://www.npmjs.com/package/@evolution-james/evolution-editor).  
 **Tech:** React.js, JavaScript
 
 ### Faithshield
-[![Faithshield](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/james-evolution/Faithshield)  
+[![Faithshield](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/james-evolution/Faithshield) [![Video](https://img.shields.io/badge/video-7700ff)](https://youtu.be/Mzp1WJvO_rU?si=sYIA7vbw1ajYLuYT)  
 A Chrome Manifest V3 extension that redirects blocked sites to a calming emergency page with custom rules and messaging.  
 **Tech:** JavaScript, Chrome Extension, Manifest V3
 
