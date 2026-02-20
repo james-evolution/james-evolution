@@ -48,12 +48,12 @@ A .NET MVC technical lexicon app demonstrating clean server‑side architecture,
 ### DragonManager
 [![DragonManager](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/james-evolution/DragonManager)  
 A full‑stack D&D themed dragon collection manager featuring an ASP.NET Core backend API and React frontend. Mostly meant to demonstrate proficiency in building a REST API and connecting it to a React frontend. It features full CRUD operations for database records modeled from the Dragon entity.  
-**Tech:** C#, ASP.NET Core, React, REST API
+**Tech:** C#, ASP.NET Core, React.js, REST API
 
 ### React Portfolio
 [![react-portfolio](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/james-evolution/react-portfolio)  
-My personal portfolio site built with a Next.js and Material UI. It features a variety of modular components that allow me to easily display new projects, video previews, repo links, and feature lists in a modern UI with button-triggered modals.  
-**Tech:** React, Next.js, CSS3, HTML5, Material UI
+My personal portfolio site. Built with Next.js and Material UI. It features a variety of modular components that allow me to easily display new projects, video previews, repo links, and feature lists in a modern UI with button-triggered modals.  
+**Tech:** React.js, Next.js, CSS3, HTML5, MaterialUI
 
 ---
 
