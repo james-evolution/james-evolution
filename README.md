@@ -1,6 +1,6 @@
 # Hello! I’m James.
 
-I’m a full‑stack developer passionate about building practical tools, web applications, desktop applications, APIs, bots, and more. Son to a software architect, I've been coding since I was just 9 years old. I'm most experienced in developing applications with React, Java, Python, and most recently .NET.
+I’m a full‑stack software developer passionate about building practical tools, web applications, desktop applications, APIs, bots, and more. Son to a software architect, I've been coding since I was just 9 years old. I'm most experienced in developing applications with React, Java, Python, and most recently .NET.
 
 ---
 
