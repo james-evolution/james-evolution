@@ -21,7 +21,7 @@ I’m a full‑stack software developer passionate about building practical tool
 
 ## Featured Projects 🏰
 
-## Evolution Extensions (Visual Studio Code)
+### Evolution Extensions (Visual Studio Code)
 I've developed and published three free extensions to the Visual Studio Code marketplace. You can view them [here](https://marketplace.visualstudio.com/publishers/james-evolution).
 - Evolution Executor: A VS Code extension that enables users to quickly injecting React components at the caret position. It features a prebuilt library of template components for injection and also allows the user to inject their own components from their /components folder.
 It is designed to be project-aware, modular, and user-friendly for both template and user-created components. It automates the process of importing components and rendering them in JSX.
