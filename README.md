@@ -21,22 +21,6 @@ I’m a full‑stack software developer passionate about building practical tool
 
 ## Featured Projects 🏰
 
-### Evolution Executor (Visual Studio Code)
-A VS Code extension that enables users to quickly injecting React components at the caret position. It features a prebuilt library of template components for injection and also allows the user to inject their own components from their /components folder.
-It is designed to be project-aware, modular, and user-friendly for both template and user-created components. It automates the process of importing components and rendering them in JSX.
-
-This is published on Visual Studio Code's marketplace. You can find the extension [here](https://marketplace.visualstudio.com/items?itemName=james-evolution.evolution-executor).
-
-### Evolution Injector (Visual Studio Code)
-A VS Code sidebar extension for running terminal commands from a convenient button palette. Ships with a curated library of common web development commands, and lets you build your own personalized command palette — organized with tags, searchable, and scoped to individual projects or your entire environment.
-
-This is published on Visual Studio Code's marketplace. You can find the extension [here](https://marketplace.visualstudio.com/items?itemName=james-evolution.evolution-injector)
-
-### Evolution Themes (Visual Studio Code)
-A collection of three handcrafted dark UI themes for Visual Studio Code. All themes leave syntax highlighting untouched, letting VS Code's built-in token colors handle code coloring while the themes style every UI surface.
-
-This is published on Visual Studio Code's marketplace. You can find the extension [here](https://marketplace.visualstudio.com/items?itemName=james-evolution.evolution-themes)
-
 ### Evolution Theme Engine
 [![Evolution Theme Engine](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/james-evolution/evolution-theme-engine) [![Live Demo](https://img.shields.io/badge/live%20demo-1b9640)](https://evolution-theme-engine-demo.vercel.app/)   
 A plug-and-play React theme engine built on CSS custom properties. It ships with five polished built-in themes, a standalone theme-selector dropdown, and an optional barebones navbar — all wired together through React Context with automatic `localStorage` persistence.  
@@ -50,6 +34,25 @@ Evolution Editor is a standalone, rich text editor React component designed for 
 **Tech:** React.js, JavaScript  
 
 This is a [published npm package](https://www.npmjs.com/package/@evolution-james/evolution-editor).
+
+### Evolution Executor
+[![Evolution Executor](https://img.shields.io/badge/visual_studio-link-blue)](https://marketplace.visualstudio.com/items?itemName=james-evolution.evolution-executor)  
+A VS Code extension that enables users to quickly injecting React components at the caret position. It features a prebuilt library of template components for injection and also allows the user to inject their own components from their /components folder.
+It is designed to be project-aware, modular, and user-friendly for both template and user-created components. It automates the process of importing components and rendering them in JSX.
+
+This is [published on Visual Studio Code's marketplace](https://marketplace.visualstudio.com/items?itemName=james-evolution.evolution-executor).
+
+### Evolution Injector
+[![Evolution Injector](https://img.shields.io/badge/visual_studio-link-blue)](https://marketplace.visualstudio.com/items?itemName=james-evolution.evolution-injector)  
+A VS Code sidebar extension for running terminal commands from a convenient button palette. Ships with a curated library of common web development commands, and lets you build your own personalized command palette — organized with tags, searchable, and scoped to individual projects or your entire environment.
+
+This is [published on Visual Studio Code's marketplace](https://marketplace.visualstudio.com/items?itemName=james-evolution.evolution-injector).
+
+### Evolution Themes
+[![Evolution Themes](https://img.shields.io/badge/visual_studio-link-blue)](https://marketplace.visualstudio.com/items?itemName=james-evolution.evolution-themes)  
+A collection of three handcrafted dark UI themes for Visual Studio Code. All themes leave syntax highlighting untouched, letting VS Code's built-in token colors handle code coloring while the themes style every UI surface.
+
+This is [published on Visual Studio Code's marketplace](https://marketplace.visualstudio.com/items?itemName=james-evolution.evolution-themes).
 
 ### Faithshield
 [![Faithshield](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/james-evolution/Faithshield) [![Video](https://img.shields.io/badge/video-7700ff)](https://youtu.be/Mzp1WJvO_rU?si=sYIA7vbw1ajYLuYT)  
